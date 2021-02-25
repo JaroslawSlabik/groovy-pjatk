@@ -1,0 +1,4 @@
+Groovy	Jan Kowalski	Bartek Migosz	darek narek	dracha acha
+Grails	program koliat	Jan Kowalski	Bartek Migosz	iGrails4 nGrails4
+Java
+JEE	darek narek	Bartek Migosz	iJEE3 nJEE3

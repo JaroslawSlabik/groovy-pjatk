@@ -1,0 +1,2 @@
+nazwa_dania1 2.79
+nazwa_dania2 1.0
